@@ -17,7 +17,8 @@
 1. Faça o clone desse repositório
 2. Acesse a pasta do projeto
 3. Crie um arquivo `.env.local` e coloque a chave da API da OpenAI nesse formato `OPENAI_API_KEY='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'`
-4. Utilize um dos comandos 
+4. Instale o projeto com o comando `npm install`
+5. Utilize um dos comandos 
 ```bash
 npm run dev
 # or
@@ -25,7 +26,7 @@ yarn dev
 # or
 pnpm dev
 ```
-5. Abra `http://localhost:3000` no seu navegador para ver o resultado
+6. Abra `http://localhost:3000` no seu navegador para ver o resultado
 
 ## Tecnologias
 
