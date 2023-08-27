@@ -16,7 +16,7 @@
 
 1. Faça o clone desse repositório
 2. Acesse a pasta do projeto
-3. Crie um arquivo `.env.local` e coloque a chave da API da OpenAI nesse formato `OPENAI_API_KEY='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'`
+3. Crie um arquivo `.env.local` e coloque a chave da API da OpenAI nesse formato `OPENAI_API_KEY='********'`
 4. Instale o projeto com o comando `npm install`
 5. Utilize um dos comandos 
 ```bash
